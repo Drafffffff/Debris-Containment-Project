@@ -1,5 +1,7 @@
 # 碎片收容计划 Debris-Containment-Project
 
+![](http://pic.drafff.art//drafff/20200128020242.gif)
+
 一个匿名留言板，用于收容人们的碎片.
 
 📦：[http://something.drafff.art/dcp/](http://something.drafff.art/dcp/)
