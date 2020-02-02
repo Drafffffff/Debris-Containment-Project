@@ -1,0 +1,92 @@
+
+#main-content {
+    margin-top: 30px;
+}
+
+
+
+.is-primar {
+    background-color: #41B883 !important;
+    color: honeydew !important;
+}
+
+#IDhex {
+    margin-top: 4px;
+    font-size: 8px;
+    color: rgb(177, 177, 177);
+}
+
+#foritissoon {
+    position: absolute;
+    left: 50%;
+    margin-left: -100px;
+    top: 220px;
+    font-size: 12px;
+    color: grey;
+}
+
+.image.is-24x24 {
+    height: 20px;
+}
+
+#bulTag {
+    position: relative;
+    left: -10px;
+}
+
+#buImg{
+    position: relative;
+    margin-top: 2px;
+    height: 20px;
+    width: auto;
+    
+}
+
+
+.image img {
+    /* height: 24px; */
+    height: 100%;
+    width: auto;
+    margin-right: 0;
+
+}
+
+#inputCol>.container {
+    margin-left: 10px;
+}
+
+#inputCol>.container>input {
+    position: relative;
+    top: 15px;
+    margin-bottom: 30px;
+}
+
+.modal-card-body {
+    border-radius: 10px;
+}
+
+#timeDisp {
+    margin-left: 0.8em;
+    color: grey;
+    font-size: 0.8em;
+}
+
+.panel-block>.box {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.input:focus,
+.textarea:focus,
+.select select:focus,
+.is-focused.input,
+.is-focused.textarea,
+.select select.is-focused,
+.input:active,
+.textarea:active,
+.select select:active,
+.is-active.input,
+.is-active.textarea,
+.select select.is-active {
+    border-color: #00D1B2;
+}
